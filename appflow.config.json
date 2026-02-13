@@ -1,3 +1,8 @@
 {
-  "iosPath": "ios/App"
+  "apps": [
+    {
+      "platform": "ios",
+      "iosPath": "ios/App"
+    }
+  ]
 }
