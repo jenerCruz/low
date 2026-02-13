@@ -1,0 +1,8 @@
+
+{
+  "name": "Low Dain - Rug Studio ERP",
+  "description": "A comprehensive workshop management tool for rug producers, featuring inventory tracking, production monitoring, order management, and offline-first data storage with Google Drive sync.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
